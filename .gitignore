@@ -1,0 +1,45 @@
+# --- Operating system ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.virtual_documents/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Large data file (>100 MB; exceeds GitHub limit) ---
+# Download separately from Dataforsyningen if you need to re-run the analysis:
+# https://dataforsyningen.dk/data/3901
+kommuner.geojson
+
+# --- Superseded / scratch files (kept locally, not committed) ---
+analyse.ipynb
+downloadSOCIO-2.ipynb
+analysis_pipeline.py
+socio.py
+outputs_v2/
+
+# --- LaTeX build artefacts (if you compile locally) ---
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
