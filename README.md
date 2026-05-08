@@ -23,16 +23,6 @@ This repository accompanies the project report **"Mapping News Deserts in Denmar
 ├── news_deserts_corrected.tex     # LaTeX source for the report
 ├── references.bib                 # BibTeX bibliography
 └── .gitignore
-```
-
-## What's NOT in here (and why)
-
-| File | Why excluded |
-|---|---|
-| `kommuner.geojson` (114 MB) | Exceeds GitHub's 100 MB file-size limit. Download separately from [Dataforsyningen](https://dataforsyningen.dk/data/3901) and place in the repo root before running `analyse_v2.ipynb`. |
-| `analyse.ipynb` (older v1) | Superseded by `analyse_v2.ipynb`. |
-| `downloadSOCIO-2.ipynb` | Superseded by `downloadSOCIO-4.ipynb`. |
-| `analysis_pipeline.py`, `socio.py` | Earlier experimental scripts; not imported by the v2 notebook. |
 
 ## Reproducing the analysis
 
@@ -54,7 +44,3 @@ The download notebooks (`downloadSTAT.ipynb`, `downloadSOCIO-4.ipynb`) are inclu
 - **Higher-education share**: Statistics Denmark, table HFUDD10 (2019, levels H60 + H70).
 - **Voter turnout**: Statistics Denmark, table KVRES (KV21, November 2021).
 - **Municipality polygons**: Dataforsyningen, `kommuner.geojson` (not committed).
-
-## License
-
-MIT — see [LICENSE](LICENSE).

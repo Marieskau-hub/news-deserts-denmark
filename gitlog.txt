@@ -1,0 +1,29 @@
+commit cd8e723c7ef72cd8696b5ab1e4d3886e86412fdd
+Author: Marie Skau <marieskau@icloud.com>
+Date:   Fri May 8 08:48:53 2026 +0200
+
+    Add report LaTeX source with code-availability link
+
+commit 12b98ff6533355f3ff3d4dca35fc5ae4cec16fa7
+Author: Marie Skau <marieskau@icloud.com>
+Date:   Fri May 8 08:48:53 2026 +0200
+
+    Add main analysis notebook (Moran's I, LISA, correlations) and figures
+
+commit d134c93c651789672b09300fb74fcc7c18b84648
+Author: Marie Skau <marieskau@icloud.com>
+Date:   Fri May 8 08:48:52 2026 +0200
+
+    Add manual newspaper-municipality coding template and small reference data
+
+commit cc6a337dbc02b550b8c95cb2a65e0a40a13077fa
+Author: Marie Skau <marieskau@icloud.com>
+Date:   Fri May 8 08:48:52 2026 +0200
+
+    Add Statbank data-acquisition notebooks (population, income, education, turnout)
+
+commit 99d6c033bc2a2813ac13247c34651eef83ee9174
+Author: Marie Skau <marieskau@icloud.com>
+Date:   Fri May 8 08:48:52 2026 +0200
+
+    Initial commit: scaffolding, license, bibliography
