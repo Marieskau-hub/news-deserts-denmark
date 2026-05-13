@@ -4,7 +4,6 @@ A geospatial analysis of local news coverage across Danish municipalities, with 
 
 This repository accompanies the project report **"Mapping News Deserts in Denmark: A Geospatial Analysis of Local News Coverage Across Municipalities"** and contains the code and (most) data used to produce the report's findings.
 
-## What's in here
 
 ```
 .
