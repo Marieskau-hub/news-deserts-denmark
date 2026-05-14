@@ -1,3 +1,21 @@
+commit 29080a682fa64da54cc165558dd064cfa37ee5a5
+Author: Marie <Marie@Carolines-MacBook-Pro-2.local>
+Date:   Thu May 14 10:37:05 2026 +0200
+
+    Remove setup script
+
+commit 206679c548523b07b58d3c0282125425317c7507
+Author: Marieskau-hub <skau@itu.dk>
+Date:   Wed May 13 09:34:27 2026 +0200
+
+    Update README.md
+
+commit e809003d3f9d95ff4fda4c2088fbddb77cf7db58
+Author: Marie Skau <marieskau@icloud.com>
+Date:   Fri May 8 08:55:11 2026 +0200
+
+    d
+
 commit cd8e723c7ef72cd8696b5ab1e4d3886e86412fdd
 Author: Marie Skau <marieskau@icloud.com>
 Date:   Fri May 8 08:48:53 2026 +0200
