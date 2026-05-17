@@ -1,3 +1,21 @@
+commit 6f3906c76c8349271550046c0671e3b5a8e78d1a
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 11:06:00 2026 +0200
+
+    Remove duplicate files and old notebooks
+
+commit a93bb44c1c5d9250af41621f5e9d96a369a1f5bf
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 11:03:52 2026 +0200
+
+    Update data acquisition notebook for socioeconomic indicators
+
+commit bcbb3b29159b0b51edac3801db5ed00ec30ed514
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 11:00:57 2026 +0200
+
+    Update gitlog
+
 commit 0d003b7607112041dfaf99a1c0255464dfb50ff4
 Author: Marie <Marie@MacBookPro.home>
 Date:   Sun May 17 11:00:56 2026 +0200
