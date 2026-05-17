@@ -1,3 +1,15 @@
+commit 01632a19bf3ffd206b75d15aa9072e26ad2f2c24
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 11:13:58 2026 +0200
+
+    Translate remaining Danish strings to English
+
+commit 2eb0ac862e50a79f5fc4c2034800a06e5e84e737
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 11:06:02 2026 +0200
+
+    Update gitlog
+
 commit 6f3906c76c8349271550046c0671e3b5a8e78d1a
 Author: Marie <Marie@MacBookPro.home>
 Date:   Sun May 17 11:06:00 2026 +0200
