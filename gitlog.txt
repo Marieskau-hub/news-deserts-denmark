@@ -1,3 +1,33 @@
+commit 0d003b7607112041dfaf99a1c0255464dfb50ff4
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 11:00:56 2026 +0200
+
+    Clean up repo: use translated notebook, remove output files and duplicates
+
+commit 1eaa363098e624d39d0d12b2590d09951f9f8ffc
+Author: Marie <Marie@MacBookPro.home>
+Date:   Sun May 17 10:21:06 2026 +0200
+
+    Update gitlog
+
+commit 72bd329e8b624952203b1d07aae06e4e74b3fa25
+Author: Marieskau-hub <skau@itu.dk>
+Date:   Fri May 15 10:26:34 2026 +0200
+
+    Add files via upload
+
+commit c94a0f352ee34f0a2192c5e24919e8e25603b9b8
+Author: Marieskau-hub <skau@itu.dk>
+Date:   Fri May 15 09:44:51 2026 +0200
+
+    Create analyse_v2.2.ipynb
+
+commit c936d81c05dd370122c5fef03be528c00a416c86
+Author: Marieskau-hub <skau@itu.dk>
+Date:   Fri May 15 09:43:50 2026 +0200
+
+    Create analyse_v2
+
 commit 7ae2be173e6658eea21875acdac27fbee6d63ed9
 Author: Marie <Marie@Carolines-MacBook-Pro-2.local>
 Date:   Thu May 14 10:38:30 2026 +0200
